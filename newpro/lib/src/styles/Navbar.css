@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+#i1{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.links{
+    width: 70%;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}
+/* links:hover{
+    color: ;
+} */

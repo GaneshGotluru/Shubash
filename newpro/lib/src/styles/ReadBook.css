@@ -1,0 +1,52 @@
+.mainCont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    border: solid 2px red;
+}
+.poster{
+
+}
+/*
+#mainrerad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+
+.maind{
+    height: 90vh;
+    width: 90%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.read1{
+    height: 85vh;
+    width: 45%;
+    background-color: white;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.read1>img{
+    height: 100%;
+    width: 100%;
+}
+.read2{
+    height: 85vh;
+    width: 45%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+} */

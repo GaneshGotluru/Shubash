@@ -1,0 +1,9 @@
+.Favourite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    padding: 40px;
+}

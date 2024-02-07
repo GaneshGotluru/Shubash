@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search input{
+    border: 1px solid lightgray;
+    height: 40px;
+    width: 35rem;
+    border-radius: 20px 0 0 20px;
+    padding-left: 20px;
+    font-size: 25px;
+    outline: none;
+}
+.search input:focus{
+    border-color: rgb(184, 240, 240);
+}
+.options button {
+    border: 1px lightgray solid;
+    border-radius: 15px;
+    background-color: white;
+    margin: 0px 5px;
+    padding: 7px 16px;
+    font-size:20px ;
+    color: rgba(0, 140, 255, 0.938);
+}
+.options button:hover{
+    background-color: lightblue;
+    cursor: pointer;
+    border: none;
+}

@@ -1,0 +1,10 @@
+.AddUsers{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid red 2px; */
+}
+#ur{
+    font-family: 'Courier New', Courier, monospace;
+}

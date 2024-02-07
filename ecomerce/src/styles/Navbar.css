@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainnav{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tiltes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.homecart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}

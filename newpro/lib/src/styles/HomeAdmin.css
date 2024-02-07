@@ -1,0 +1,115 @@
+.homepage{
+    z-index: 1;
+}
+
+.img2{
+    position: absolute;
+    height:500px;
+    width:100%;
+    bottom: -0px;
+}
+.h15{
+    position: absolute;
+    opacity:0.8;
+    height: 280px;
+    width: 70%;
+    background-color: whitesmoke;
+    bottom:160px ;
+}
+.h16{
+    position: absolute;
+
+    bottom:320px ;
+    font-size:90px;
+    left:70px;
+}
+.h17{
+    position: absolute;
+
+    bottom:250px ;
+    font-size:20px;
+    left:70px;
+}
+.butn{
+    position: absolute;
+    height: 39px;
+    width: 130px;
+    background-color:darkorange;
+    bottom:170px;
+    left: 920px;
+}
+.butn:hover{
+    background-color: blue;
+}
+.img3{
+
+    position: absolute;
+    height:400px;
+    width:71rem;
+     bottom: -30rem;
+     left: 170px;   
+
+}
+.h18{
+    position: absolute;
+ 
+    height:320px;
+    width:60%;
+    background-color:white;
+     bottom:-44rem; 
+    left:320px;
+}
+.h19{
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom:-26rem;
+    left:350px;
+    font-weight: bold;
+}
+.h20{
+    position: absolute;
+    text-decoration-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom:-30rem;
+    left:350px;
+    font-size:50px;
+
+}
+.h21{
+
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom:-39rem;
+    left:350px;
+    font-size:23px;
+}
+.butn1{
+    position: absolute;
+    height: 39px;
+    width: 130px;
+    background-color: greenyellow;
+    bottom:-46rem;
+    left:70rem;
+}
+.img4{
+    position: absolute;
+    height:400px;
+    width:100%;
+     bottom: -73rem;
+}
+.h22{
+    position: absolute;
+    height: 200px;
+    width: 80%;
+    left: 150px;
+    background-color:green;
+    bottom: -69rem;
+}
+.h23{
+    position: absolute;
+    color: white;
+    bottom: -61rem;
+    left:560px;
+    font-size:50px;
+
+}

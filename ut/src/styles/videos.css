@@ -1,0 +1,48 @@
+.videos{
+    display: flex;
+    margin: 10px 45px 25px 45px;
+    flex-wrap: wrap;
+}
+.video{
+    margin: 5px;
+    margin-top: 35px;
+    width: 28vw; 
+    padding-right:20px;
+}
+.details{
+    padding: 10px;
+}
+.icon{
+    display: flex;
+}
+.Thumnail img{
+    height: 230px;
+    width: 25rem;
+    border-radius: 30px;
+}
+.icon img{
+    border-radius: 50%;
+    height: 40px;
+    text-align: center;
+}
+.title_details h4{
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 1px;
+    margin-bottom :10px;
+}
+.chennalName p{
+    margin: 0px 0px 10px 3px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+.ChennalName p{
+    margin-top: 0px;
+}
+.Views p {
+    font-family: sans-serif;
+}
+.a1{
+    text-decoration: none;
+    color:rgb(167,167,167);   
+}

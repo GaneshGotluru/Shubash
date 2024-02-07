@@ -1,0 +1,10 @@
+.mainCont{
+    border: solid 2px red;
+    margin: auto;
+    width: 50%;
+}
+.desc{
+    /* border: solid 2px black; */
+    margin: 10px;
+
+}

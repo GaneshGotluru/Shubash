@@ -1,0 +1,98 @@
+/* .landingPage{
+    background-color: rgb(251, 248, 251);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px
+}
+.loginOptions{
+    display: flex;
+    gap: 20px;
+
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+.btn:hover{
+    transition: 400ms;
+    background-color: cadetblue;
+}
+
+h1{
+    font-size:100px ;
+    color:#0866FF;
+    font-family: cursive !important; 
+} */
+
+.parentlanding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.landingPage{
+    background: linear-gradient(to right, #e0ffff, #f0f8ff, #f5e5f2);
+    height: 500px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+
+}
+.loginOptions{
+    display: flex;
+    gap: 20px;
+}
+
+link a{
+    list-style: none;
+}
+.btn1{
+    height: 50px;
+    width: 150px;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border: 2px solid; /* Set a solid border to define the border width */
+    border-image: linear-gradient(to right, #458e8e, #e2b4f0, #e84c88e8) 1; /* Apply a horizontal linear gradient as the border image */
+}
+.btn1:hover{
+    transition: 400ms;
+    background-color: #0867ff38;
+}
+
+.h1k{
+    font-size:100px ;
+    color:#0867ff;
+    font-family: cursive;
+    box-shadow: 1px 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    padding: 25px;
+}
+#he{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
